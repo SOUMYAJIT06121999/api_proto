@@ -11,7 +11,7 @@ function App() {
   const [profile, setProfile] = useState({
     name: 'example',
     email: 'email@example.com',
-    phone: '',
+    phone: '000000000000',
     picture: '/profile-pic.jpg'
   });
 
